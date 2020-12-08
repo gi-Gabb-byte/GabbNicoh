@@ -2,10 +2,8 @@
 
 ## I'm a student and an aspiring software developer!
 - 🔭 In the near future I want to be able to give back to my parents
-- 🌱 I’m currently learning machine learning in python
 - 👯 I’m open for collaboration with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects and read more books
-- ⚡ Fun fact: I love to sketch and write from time to time
 
 ### Currently listening to 🎧
 
