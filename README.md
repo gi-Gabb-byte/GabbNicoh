@@ -9,7 +9,7 @@
 
 ### Currently listening to 🎧
 
-[<img src="https://now-playing-GabbNicoh.vercel.app/api/spotify-playing" alt="GabbNicoh Currently listening to" width="350" />](https://open.spotify.com/user/gabbnicoh07)
+[<img src="https://novatorem.gabbnicoh.vercel.app/api/spotify" alt="GabbNicoh Currently listening to" width="350" />](https://open.spotify.com/user/gabbnicoh07)
 
 ### Connect with me:
 
@@ -18,7 +18,6 @@
 [<img align="left" alt="GabbNicoh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GabbNicoh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
 <br/>
 
 ### 📺 Latest YouTube Videos
