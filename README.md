@@ -3,7 +3,7 @@
 ## I'm a student and an aspiring software developer!
 - 🔭 In the near future I want to be able to give back to my parents
 - 👯 I’m open for collaboration with other developers
-- 🥅 2020 Goals: Read more books and spend more time with @___gabby.does.art___
+- 🥅 2020 Goals: Read more books and spend more time with @gilliangabb
 
 ### Currently listening to 🎧
 
