@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabbnicoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabbnicoh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gabbnicoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gabbnicoh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10289593" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gabbnicoh" height="30" width="40" /></a>
 <a href="https://fb.com/gabbythenicoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabbythenicoh" height="30" width="40" /></a>
 <a href="https://instagram.com/gabbnicoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabbnicoh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gabbnicoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gabbnicoh" height="30" width="40" /></a>
