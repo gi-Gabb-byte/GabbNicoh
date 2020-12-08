@@ -9,7 +9,7 @@
 
 ### Currently listening to 🎧
 
-[![Spotify](https://novatorem.gabbnicoh.vercel.app/api/spotify)](https://open.spotify.com/user/gabbnicoh07?si=WFlk9d5pTMOeRQuBkgjUOg)
+[![Spotify](https://gabbnicoh-playing.vercel.app/api/spotify)](https://open.spotify.com/user/gabbnicoh07?si=WFlk9d5pTMOeRQuBkgjUOg)
 
 ### Connect with me:
 
