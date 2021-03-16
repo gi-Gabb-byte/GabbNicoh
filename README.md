@@ -7,7 +7,7 @@
 
 ### Currently listening to 🎧
 
-/* [![Spotify](https://gabbnicoh-playing.vercel.app/api/spotify)](https://open.spotify.com/user/gabbnicoh07)*/
+ <!-- [![Spotify](https://gabbnicoh-playing.vercel.app/api/spotify)](https://open.spotify.com/user/gabbnicoh07)-->
 
 
 - 🔭 I’m currently working on [Osu Mania! Key Bot](https://github.com/GabbNicoh/Osu-Machine)
