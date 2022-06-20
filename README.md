@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabbNicoh](https://github.com/GabbNicoh)
 
-- 📫 How to reach me **gabbnicoh@gmail.com**
+- 📫 How to reach me **workthynicoh@gmail.com**
 
 - ⚡ Fun fact **I love to sketch and write from time to time**
 
