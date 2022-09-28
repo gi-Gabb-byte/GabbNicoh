@@ -1,6 +1,6 @@
 ### Hi! I'm Nicoh - aka [GabbNicoh]
 
-## I'm a student and an aspiring software developer!
+## I'm a student
 - 🔭 In the near future I want to be able to give back to my parents
 - 👯 I’m open for collaboration with other developers
 - 🥅 2022 Goals: Survive another year of college
