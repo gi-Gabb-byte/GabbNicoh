@@ -1,4 +1,4 @@
-### Hi! I'm Nicoh
+### Hi! I'm Gabb
 
 ## I'm a student
 - 🔭 In the near future I want to be able to give back to my parents
