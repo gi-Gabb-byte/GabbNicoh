@@ -1,4 +1,4 @@
-### Hi! I'm Gabb
+### Hi there friend!
 
 ## I'm a student
 - 🔭 In the near future I want to be able to give back to my parents
