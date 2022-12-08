@@ -5,7 +5,7 @@
 - 👯 I’m open for collaboration with other developers
 - 🥅 2022 Goals: Survive another year of college
 
-## 🌱 I’m currently learning **Python**
+## 🌱 I’m currently learning **Intro To OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabbNicoh](https://github.com/GabbNicoh)
 
